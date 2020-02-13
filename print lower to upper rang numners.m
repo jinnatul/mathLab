@@ -9,7 +9,7 @@
   2 3 4 5 6 7 8 9
 %}
 
-num1 = input('1st Qus START Num: ');
+num1 = input('START Num: ');
 num2 = input('End Num: ');
 
 for num = num1:num2
