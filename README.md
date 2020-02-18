@@ -9,3 +9,5 @@
   * [check a number is prime MATLAB](/check%20a%20number%20is%20prime.m)
   * [biSection/binary method  C++](/biSection.cpp)
   * [biSection/binary method MATLAB](/biSection.m)
+  * [False or Falsi Position method c++](/False%20or%20Falsi%20Position%20method.cpp)
+  * [False or Falsi Position method MATLAB](/False%20or%20Falsi%20Position%20method.m)
