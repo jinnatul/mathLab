@@ -13,3 +13,4 @@
   * [False or Falsi Position method c++](/False%20or%20Falsi%20Position%20method.cpp)
   * [False or Falsi Position method MATLAB](/False%20or%20Falsi%20Position%20method.m)
   * [Newton Raphson method MATLAB](/Newton%20Rapson%20method.m)
+  * [Secant method MATLAB](/Secant%20methid.m)
